@@ -1,0 +1,8 @@
+#V2
+(contract-call? .bbtc get-count 'ST2REHHS5J3CERCRBEPMGH7921Q6PYKAADT7JP2VB)
+(contract-call? .bbtc count-up)
+(contract-call? .bbtc get-count 'ST2REHHS5J3CERCRBEPMGH7921Q6PYKAADT7JP2VB)
+(contract-call? .bbtc get-count 'ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZG)
+(contract-call? .bbtc get-count 'ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM)
+(contract-call? .bbtc count-up)
+(contract-call? .bbtc get-count 'ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM)

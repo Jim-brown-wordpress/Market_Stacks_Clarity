@@ -1,0 +1,6 @@
+#V2
+(contract-call? .bbtc write-message u"Hello there")
+(contract-call? .bbtc write-message u"Hello World")
+(contract-call? .bbtc multiplies 5)
+(contract-call? .bbtc letExample)
+(contract-call? .bbtc Example)
